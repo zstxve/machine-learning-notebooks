@@ -1,0 +1,14 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+*.csv
+*.txt
+!requirements.txt
+data/
+archive/
+CIFAR-10_Data/
+*.pth
+wandb/
+kaggle.json
+.env
